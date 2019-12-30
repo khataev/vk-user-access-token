@@ -1,0 +1,5 @@
+/.idea
+log
+screenshots
+node_modules
+config/development.json
